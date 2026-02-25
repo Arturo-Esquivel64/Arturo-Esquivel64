@@ -20,8 +20,6 @@
 
 💻 Apasionado por el **desarrollo backend** con **Python** (web.py y Flask)
 
-🗄️ Me encanta el **diseño y modelado de bases de datos** (SQLite, PostgreSQL, MySQL)
-
 🚀 Actualmente construyendo **OFIMEX**, una plataforma para conectar trabajadores independientes con clientes
 
 📊 Con experiencia en **análisis de requerimientos**, diagramas ER (UML), normalización y documentación técnica
@@ -76,30 +74,11 @@
 
 </div>
 
----
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arturo-Esquivel64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturo-Esquivel64&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arturo-Esquivel64&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd)
-
-</div>
-
----
-
 ## 🎯 Objetivo Profesional
 
 <div align="center">
 
-> *"Convertirme en desarrollador backend especializado en arquitectura de software y bases de datos, participando en proyectos que generen impacto real y soluciones eficientes."*
+> *"Convertirme en desarrollador backend, participando en proyectos que generen impacto real y soluciones eficientes."*
 
 </div>
 
@@ -111,9 +90,6 @@
 
 [![Email](https://img.shields.io/badge/Gmail-arturoesquivelcano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturoesquivelcano@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arturo-Esquivel64&color=c4b5fd&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
