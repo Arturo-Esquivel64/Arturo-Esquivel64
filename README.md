@@ -97,9 +97,6 @@
 | 🔀 **CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas** | Cisco Networking Academy – UTec Tulancingo | Abr 2025 |
 | 🐧 **Fundamentos de Linux** | Cisco Networking Academy – UTec Tulancingo | Abr 2025 |
 
-[![Cisco Badge](https://img.shields.io/badge/Ver%20credencial%20en%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/c277c593-aed3-48f8-b2e8-95dffed40b41)
-
-
 </div>
 
 
