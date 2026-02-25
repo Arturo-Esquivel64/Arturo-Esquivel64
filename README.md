@@ -12,6 +12,16 @@
 
 ---
 
+  <a href="https://www.linkedin.com/in/jose-arturo-esquivel-cano-49b6a9372/" target="_blank">
+    <img align="center" 
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:arturoesquivelcano@gmail.com">
+    <img align="center" 
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨🏻‍💻 Sobre mí
