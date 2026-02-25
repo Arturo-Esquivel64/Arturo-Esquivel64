@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=José%20Arturo%20Esquivel%20Cano&fontSize=36&fontColor=a78bfa&fontAlignY=38&desc=TI%20e%20Innovación%20Digital%20%7C%20Python%20%7C%20Bases%20de%20Datos%20%7C%20Backend&descAlignY=58&descSize=16&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=José%20Arturo%20Esquivel%20Cano&fontSize=38&fontColor=e2d9f3&fontAlignY=38&desc=Tecnologías%20de%20la%20Información%20e%20Innovación%20Digital%20%7C%20Python%20%7C%20Backend%20%7C%20Bases%20de%20Datos&descAlignY=58&descSize=14&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudiante+de+TI+e+Innovaci%C3%B3n+Digital+%F0%9F%8E%93;Aprendiendo+Desarrollo+Backend+con+Python+%F0%9F%90%8D;Apasionado+por+las+Bases+de+Datos+%F0%9F%97%84%EF%B8%8F;Construyendo+proyectos+reales+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Estudiante+de+TI+e+Innovación+Digital+🎓;Aprendiendo+Desarrollo+Backend+con+Python+🐍;Apasionado+por+las+Bases+de+Datos+🗄️;Construyendo+proyectos+reales+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨🏻‍💻 Sobre mí
 
@@ -78,9 +78,18 @@
 
 ---
 
+## 📈 Estadísticas de GitHub
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arturo-Esquivel64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturo-Esquivel64&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Arturo-Esquivel64&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd)
 
 </div>
 
@@ -90,7 +99,7 @@
 
 <div align="center">
 
-> *"Convertirme en desarrollador backend, participando en proyectos que generen impacto real y soluciones eficientes."*
+> *"Convertirme en desarrollador backend especializado en arquitectura de software y bases de datos, participando en proyectos que generen impacto real y soluciones eficientes."*
 
 </div>
 
@@ -100,12 +109,12 @@
 
 ### 📬 ¡Conectemos!
 
-[![Email](https://img.shields.io/badge/Email-arturoesquivelcano%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturoesquivelcano@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-arturoesquivelcano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturoesquivelcano@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arturo-Esquivel64&color=c4b5fd&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
