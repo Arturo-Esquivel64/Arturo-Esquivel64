@@ -12,7 +12,7 @@
 
 ---
 
-  <a href="https://www.linkedin.com/in/jose-arturo-esquivel-cano-49b6a9372/" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-arturo-esquivel-cano-56a5543b3/" target="_blank">
     <img align="center" 
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
