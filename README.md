@@ -78,8 +78,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🏢 **OFIMEX** | Plataforma web para conectar trabajadores independientes con clientes, con perfiles dinámicos y gestión de usuarios | `Python` `SQLite` `web.py` |
-| 🎫 **Sistema de Gestión de Tickets** | Diseño e implementación de base de datos completa para gestión de tickets de soporte | `PostgreSQL` `SQL` `UML` |
+| 🏢 **OFIMEX** | Plataforma web para conectar trabajadores independientes con clientes, con perfiles dinámicos, autenticación segura y gestión estructurada de usuarios | `Python` `SQLite` `web.py` |
+| 🚀 **GALAXY** | Sistema backend enfocado en la automatización y optimización de grandes volúmenes de datos, permitiendo la relación estructurada entre tablas y reducción de procesos manuales | `Python` `Flask` `PostgreSQL` `SQL` |
 | 🌐 **Integración IoT + Firebase** | Envío y lectura de datos en tiempo real desde sensores físicos hacia Firebase Realtime Database | `Firebase` `Python` `IoT` |
 
 </div>
